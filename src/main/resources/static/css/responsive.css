@@ -1,0 +1,1054 @@
+@media only screen and (min-width:992px) and (max-width:1200px) {
+    .hero-area {
+        height: 650px
+    }
+    .hero-content h3 {
+        font-size: 90px
+    }
+    p.bio-text {
+        font-size: 30px
+    }
+    .about-owner-img {
+        width: 470px;
+        height: 470px
+    }
+    .about-area .section-title p {
+        margin: 5px 0;
+        font-size: 12px;
+        line-height: 18px
+    }
+    .nav-tabs .nav-link {
+        display: block;
+        padding: .2rem .5rem;
+        font-size: 14px
+    }
+    .nav-tabs .nav-link.active::after {
+        width: 70%;
+        top: 24px
+    }
+    .skillbar {
+        margin-bottom: 10px
+    }
+    .single-experience p {
+        font-size: 13px
+    }
+    .section-padding {
+        padding: 50px 0
+    }
+    .about-area::after {
+        top: 0;
+        height: 90%
+    }
+    .about-two-title h4 {
+        font-size: 20px
+    }
+    .resume-txt p {
+        font-size: 13px;
+        line-height: 22px
+    }
+    .about-two-area .about-box-wrapper {
+        height: 90%
+    }
+    .about-box-content h4 {
+        font-size: 20px
+    }
+    .about-two-area.three .about-image img {
+        width: 250px;
+        margin: 10px 0 20px;
+        border-radius: 100%;
+        height: 250px;
+        border: 5px solid #fff
+    }
+    .count-text {
+        font-size: 14px;
+        font-weight: 400
+    }
+    .single-service p {
+        font-size: 14px
+    }
+    .portfolio-menu h2 {
+        font-size: 40px;
+        margin-bottom: 25px
+    }
+    .portfolio-menu {
+        padding: 30px 60px
+    }
+    .portfolio-menu ul li {
+        padding-bottom: 10px;
+        font-size: 14px
+    }
+    .single-portfolio {
+        height: 185px;
+        width: 33.3%
+    }
+    .single-testimonial {
+        padding: 30px 20px
+    }
+    .testimonial-content p {
+        padding-bottom: 30px;
+        font-size: 14px
+    }
+    .single-testimonial::before {
+        top: 60px
+    }
+    .single-testimonial::after {
+        left: 10px
+    }
+    .author-details {
+        margin-top: 30px
+    }
+    .single-testimonial.style-2 .author-details {
+        margin: 0
+    }
+    .blog-content h2 {
+        font-size: 20px
+    }
+    .blog-meta ul li {
+        margin-right: 5px;
+        font-size: 10px
+    }
+    .latest-news-title p a {
+        font-size: 10px
+    }
+    .latest-news-title p {
+        font-size: 10px;
+        line-height: 18px;
+        margin-left: 5px
+    }
+    .addreass-info,
+    .addreass-info a,
+    .addreass-info p {
+        font-size: 13px
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .main-menu {
+        display: none
+    }
+    #mobile-menu {
+        display: block;
+        position: absolute;
+        left: 0;
+        right: 0
+    }
+    #mobile-menu .slicknav_btn {
+        bottom: 15px
+    }
+    .slicknav_nav {
+        top: 35px
+    }
+    .hero-content .hire-btn {
+        display: block
+    }
+    .hire-btn {
+        display: none
+    }
+    .main-menu ul li a {
+        font-size: 14px
+    }
+    .hero-area {
+        height: 580px
+    }
+    .hero-content h3 {
+        font-size: 80px
+    }
+    .hero-content.typing-head h3 {
+        font-size: 50px;
+        height: 60px
+    }
+    p.bio-text {
+        font-size: 27px;
+        line-height: 40px
+    }
+    .section-padding {
+        padding: 50px 0
+    }
+    .about-area::after {
+        top: 0;
+        height: 90%
+    }
+    .about-owner-img {
+        width: 350px;
+        height: 350px
+    }
+    .about-area .section-title p {
+        display: none
+    }
+    .nav-tabs {
+        margin-bottom: 0
+    }
+    .nav-tabs .nav-link {
+        font-size: 10px;
+        padding: 0 8px
+    }
+    .nav-tabs .nav-link.active::after {
+        width: 50%;
+        top: 15px;
+        left: 0
+    }
+    .skill-title {
+        margin-bottom: 0
+    }
+    .single-experience h2 {
+        font-size: 14px
+    }
+    .single-experience h5 {
+        font-size: 12px
+    }
+    .single-experience p {
+        font-size: 10px;
+        line-height: 14px
+    }
+    .single-logo {
+        width: 30%
+    }
+    .about-two-title h4 {
+        font-size: 18px
+    }
+    .resume-txt p {
+        font-size: 12px;
+        line-height: 20px
+    }
+    .about-two-area .about-box-wrapper {
+        height: 70%;
+        margin: 40px 0
+    }
+    .about-details ul li {
+        font-size: 9px
+    }
+    .about-details ul li label {
+        font-size: 11px;
+        min-width: 48px
+    }
+    .about-box-content h4 {
+        font-size: 18px
+    }
+    .about-image img {
+        width: 190px;
+        margin: 5px 0 10px;
+        height: 190px
+    }
+    .single-counter-box {
+        margin-left: 0;
+        text-align: left
+    }
+    .count-content {
+        margin-left: 0
+    }
+    .count-icon {
+        position: unset
+    }
+    .count-text {
+        font-size: 13px;
+        font-weight: 400
+    }
+    .cta-text h2 {
+        font-size: 30px;
+        margin: 0;
+        line-height: 50px
+    }
+    .cta-btn a.cta {
+        font-size: 10px;
+        padding: 10px 30px
+    }
+    .about-skills-text p {
+        font-size: 14px
+    }
+    .single-service p {
+        font-size: 12px;
+        line-height: 20px
+    }
+    .single-service h2 {
+        font-size: 20px
+    }
+    .single-service i {
+        font-size: 40px
+    }
+    .single-service.three {
+        padding: 20px
+    }
+    .portfolio-menu h2 {
+        font-size: 30px;
+        margin-bottom: 20px
+    }
+    .portfolio-menu {
+        padding: 30px 60px
+    }
+    .portfolio-menu ul li {
+        padding-bottom: 10px;
+        font-size: 14px
+    }
+    .single-portfolio {
+        height: 170px;
+        width: 33.3%
+    }
+    .portfolio-menu ul li.active::after {
+        right: 20px
+    }
+    .single-pricing-table {
+        padding: 20px
+    }
+    .single-pricing-table ul li {
+        font-size: 12px;
+        padding-bottom: 0
+    }
+    .single-pricing-table h2 {
+        font-size: 35px;
+        margin: 10px 0
+    }
+    .table-rm {
+        font-size: 10px;
+        padding: 5px 8px;
+        left: -16px;
+        top: 20%;
+        margin-right: -5px
+    }
+    .table-rm::before {
+        border-right: 0 solid transparent;
+        border-left: 5px solid #fff;
+        border-bottom: 12px solid transparent;
+        border-top: 9px solid transparent
+    }
+    .single-pricing-table .price-btn,
+    .single-pricing-table.popular .price-btn {
+        font-size: 10px;
+        padding: 5px 20px
+    }
+    .single-testimonial.style-1::before {
+        width: 85%;
+        height: 53%;
+        left: 0;
+        margin: 0 auto;
+        right: 0
+    }
+    .author-image {
+        padding-bottom: 10px
+    }
+    .single-testimonial {
+        padding: 39px 100px
+    }
+    .single-testimonial.style-1::after {
+        bottom: 63px;
+        left: 190px
+    }
+    .blog-content h2 {
+        font-size: 18px
+    }
+    .blog-meta {
+        margin-bottom: 0
+    }
+    .blog-meta ul li {
+        margin-right: 5px;
+        font-size: 10px
+    }
+    .blog-content {
+        padding: 10px 20px
+    }
+    .get-touch-title p {
+        font-size: 16px;
+        padding: 10px 0
+    }
+    .foter-bottom {
+        padding-top: 40px
+    }
+    .breadcrumb-area {
+        height: 450px;
+        z-index: 0
+    }
+    .blog-page,
+    .single-blog-page {
+        padding: 80px 0
+    }
+    .blog-page.section-padding {
+        padding: 40px 0
+    }
+    .latest-news-title {
+        float: left;
+        margin-left: -100px
+    }
+    .author-img>img {
+        margin: 20% 0 20px
+    }
+    .adtress-info {
+        padding: 20px 0;
+        text-align: center;
+        margin-top: 0
+    }
+    .single-addreass {
+        padding: 3px 0
+    }
+    .addreass-info,
+    .addreass-info a,
+    .addreass-info p {
+        text-align: center;
+        font-size: 12px
+    }
+    .addreass-icon i {
+        border-radius: 100%;
+        color: #fefefe;
+        display: block;
+        line-height: 50px;
+        margin: 0 25px;
+        text-align: center;
+        font-size: 20px;
+        float: none;
+        width: auto;
+        height: auto
+    }
+}
+
+@media only screen and (max-width:767px) {
+    span.menu-trigger {
+        position: absolute;
+        top: -45px;
+        right: 20px
+    }
+    header.off-canvas.sticky span.menu-trigger {
+        top: -40px
+    }
+    .hero-content .hire-btn {
+        display: block
+    }
+    .hero-content .hire-btn a {
+        padding: 10px 30px
+    }
+    .download-btn {
+        display: none
+    }
+    .main-menu {
+        display: none
+    }
+    #mobile-menu {
+        display: block;
+        position: absolute;
+        left: 0;
+        right: 0
+    }
+    .sticky {
+        padding: 20px 10px
+    }
+    .sticky #mobile-menu .slicknav_btn {
+        padding: 23px 20px
+    }
+    .hire-btn {
+        display: none
+    }
+    .hero-content h3 {
+        font-size: 65px
+    }
+    .hero-content.typing-head h3 {
+        font-size: 40px;
+        height: 20px;
+        margin-bottom: 40px
+    }
+    .hero-area {
+        height: 600px
+    }
+    p.bio-text {
+        font-size: 27px;
+        line-height: 40px
+    }
+    .section-padding {
+        padding: 50px 0
+    }
+    .about-owner-img {
+        position: unset;
+        left: 0;
+        width: 100%;
+        padding-bottom: 50px;
+        height: 100%
+    }
+    .about-owner-img img {
+        box-shadow: 0 0 19px #777
+    }
+    .about-area::after {
+        width: 100%;
+        height: 100%;
+        top: 0
+    }
+    .about-box-wrapper {
+        margin-bottom: 50px
+    }
+    .section-title {
+        text-align: center
+    }
+    .about-area .section-title p {
+        display: none
+    }
+    .single-counter-box {
+        padding: 40px 0;
+        border: 1px solid #d7d7d7;
+        display: grid;
+        margin-bottom: 5px;
+        margin-left: 0
+    }
+    .count-icon {
+        position: unset;
+        margin: 0 auto
+    }
+    .count-content {
+        text-align: center;
+        margin-left: 0;
+        opacity: .8
+    }
+    .count-number {
+        font-size: 30px;
+        padding: 10px 0
+    }
+    .cta-text h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+        text-align: center
+    }
+    .about-skills-text p {
+        font-size: 14px
+    }
+    .cta-btn {
+        text-align: center!important
+    }
+    .cta-btn a.cta {
+        font-size: 10px;
+        padding: 10px 30px;
+        text-align: center
+    }
+    .portfolio-menu {
+        padding: 30px 60px
+    }
+    .portfolio-area.two .single-portfolio,
+    .single-portfolio {
+        width: 25%;
+        height: 150px
+    }
+    .portfolio-menu ul li {
+        font-size: 12px;
+        padding-right: 5px
+    }
+    .portfolio-content h3 {
+        font-size: 14px
+    }
+    .portfolio-content p {
+        font-size: 10px
+    }
+    .portfolio-menu ul li.active::after {
+        right: 160px
+    }
+    .portfolio-area.three .portfolio-menu h2,
+    .portfolio-area.two .portfolio-menu h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+        text-align: center
+    }
+    .portfolio-area.three .single-portfolio {
+        width: 30%;
+        height: 150px;
+        margin-right: 10px;
+        margin-bottom: 10px
+    }
+    .testimonail-area.style3 .testimonial-content p {
+        font-size: 16px;
+        line-height: 30px
+    }
+    .single-blog img {
+        width: 100%
+    }
+    .blog-page,
+    .single-blog-page {
+        padding-top: 20px
+    }
+    button.subscribe-btn.btn.black.grdnt-blue {
+        border: 1px solid #fff
+    }
+    .breadcrumb-area h2 {
+        font-size: 24px;
+        line-height: 30px;
+        padding-top: 100px
+    }
+    .breadcrumb-area ul li {
+        font-size: 12px
+    }
+    h3.blog-title a {
+        font-size: 20px
+    }
+    .blog-post p {
+        font-size: 14px
+    }
+    .blog-Pagination a {
+        font-size: 14px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 10px
+    }
+    .single-blog-page.section-padding {
+        padding: 40px 0
+    }
+    .single-posts h2 {
+        font-size: 24px
+    }
+    .blog-posts-meta ul li {
+        font-size: 8px;
+        margin-right: 15px
+    }
+    .blog-posts-meta ul li i {
+        margin-right: 6px
+    }
+    .blog-posts-meta ul li::before {
+        right: -12px
+    }
+    .entry-content p {
+        font-size: 12px;
+        line-height: 20px
+    }
+    .single-posts blockquote p {
+        font-size: 12px
+    }
+    .single-posts blockquote p i {
+        font-size: 14px
+    }
+    .entry-footer {
+        text-align: center
+    }
+    .post-share {
+        float: none;
+        margin-top: 10px
+    }
+    .comment-box .comment-reply-button {
+        right: 30px
+    }
+    .comment-box p {
+        font-size: 12px;
+        margin: 10px 0 20px;
+        line-height: 20px
+    }
+    .comment-box.children {
+        margin-left: 40px
+    }
+    .comment-form {
+        margin-bottom: 40px
+    }
+    .search-submit {
+        right: 58px
+    }
+    .widget {
+        padding: 30px 20px
+    }
+    .latest-news-title,
+    .widget.latest-news-widget {
+        text-align: center
+    }
+    .latest-news-title {
+        float: none;
+        margin-top: 20px;
+        line-height: 20px
+    }
+    .category li a {
+        padding: 5px 0;
+        font-size: 14px
+    }
+    .author-img>img {
+        margin: 15% 0 20px
+    }
+}
+
+@media only screen and (min-width:391px) and (max-width:500px) {
+    .nav-tabs .nav-link {
+        font-size: 12px;
+        font-weight: 700;
+        padding: 5px 20px 6px 0
+    }
+    .nav-tabs .nav-link.active::after {
+        width: 50%;
+        height: 20px;
+        top: 23px;
+        left: 0
+    }
+    p.bio-text {
+        font-size: 20px;
+        line-height: 35px
+    }
+    .single-experience p {
+        font-size: 13px;
+        line-height: 18px
+    }
+    .single-experience h2 {
+        font-size: 16px
+    }
+    .single-experience h5 {
+        font-size: 12px
+    }
+    .single-logo {
+        display: inline-block;
+        margin-bottom: 30px;
+        width: 25%;
+        margin-right: 25px
+    }
+    .about-two-area .about-box-wrapper {
+        width: 95%;
+        margin: 0 auto 50px auto
+    }
+    .effects::before {
+        width: 110%;
+        top: 47px;
+        left: -18px
+    }
+    .effects::after {
+        width: 105%;
+        top: 35px;
+        left: -10px
+    }
+    .about-two-title h4 {
+        font-size: 18px;
+        font-weight: 400
+    }
+    .resume-txt p {
+        font-size: 13px;
+        line-height: 22px
+    }
+    .about-details ul li {
+        font-size: 10px
+    }
+    .buttons-wrap ul li a {
+        padding: 10px 30px
+    }
+    .about-details ul li label {
+        font-size: 10px;
+        min-width: 50px
+    }
+    .cta-text h2 {
+        font-size: 24px
+    }
+    .cta-btn a.cta {
+        font-size: 10px;
+        padding: 5px 16px
+    }
+    .portfolio-menu h2 {
+        font-size: 40px
+    }
+    .portfolio-menu ul li {
+        display: block;
+        padding-bottom: 10px;
+        font-size: 14px
+    }
+    .single-portfolio {
+        height: 150px
+    }
+    .portfolio-content h3 {
+        font-size: 12px
+    }
+    .portfolio-content p {
+        font-size: 10px
+    }
+    .portfolio-area.three .portfolio-menu ul li,
+    .portfolio-area.two .portfolio-menu ul li {
+        font-size: 10px;
+        padding-right: 5px!important;
+        padding-left: 0
+    }
+    .portfolio-area.three .portfolio-content,
+    .portfolio-area.two .portfolio-content {
+        top: 70%;
+        left: 0;
+        margin-left: 0;
+        text-align: center
+    }
+    .portfolio-content h3 {
+        font-size: 12px
+    }
+    .portfolio-content p {
+        font-size: 8px
+    }
+    .portfolio-area.three .single-portfolio,
+    .portfolio-area.two .single-portfolio,
+    .single-portfolio {
+        height: 130px
+    }
+    .m-b-65 {
+        margin-bottom: 30px
+    }
+    .client-logo-title h4 {
+        font-size: 18px
+    }
+    .get-touch-title h2 {
+        font-size: 50px
+    }
+    .get-touch-title p {
+        font-size: 14px
+    }
+    .foter-bottom {
+        padding-top: 30px
+    }
+    .breadcrumb-area {
+        height: 350px
+    }
+    .single-posts h2 {
+        font-size: 20px;
+        padding: 15px 0 5px
+    }
+    .blog-posts-meta.single {
+        margin-bottom: 5px
+    }
+    .author-img>img {
+        margin: 10% 0 20px
+    }
+}
+
+@media only screen and (max-width:390px) {
+    .hero-content h3 {
+        font-size: 50px
+    }
+    .hero-content.typing-head h3 {
+        font-size: 34px
+    }
+    p.bio-text {
+        font-size: 16px;
+        line-height: 28px
+    }
+    .about-area::after {
+        height: 94%
+    }
+    .nav-tabs .nav-link {
+        font-size: 11px;
+        font-weight: 700;
+        padding: 5px 16px 6px 0
+    }
+    .nav-tabs .nav-link.active::after {
+        width: 50%;
+        height: 20px;
+        top: 23px;
+        left: 0
+    }
+    .single-experience p {
+        font-size: 12px;
+        line-height: 18px
+    }
+    .single-experience h2 {
+        font-size: 13px
+    }
+    .single-experience h5 {
+        font-size: 12px
+    }
+    .single-logo {
+        display: inline-block;
+        margin-bottom: 30px;
+        width: 24%;
+        margin-right: 25px
+    }
+    .about-two-area .about-box-wrapper {
+        width: 95%;
+        margin: 0 auto 50px auto
+    }
+    .effects::before {
+        width: 110%;
+        top: 47px;
+        left: -14px
+    }
+    .effects::after {
+        width: 105%;
+        top: 35px;
+        left: -8px
+    }
+    .about-two-title h4 {
+        font-size: 18px;
+        font-weight: 400
+    }
+    .resume-txt p {
+        font-size: 13px;
+        line-height: 22px
+    }
+    .about-details ul li {
+        font-size: 10px
+    }
+    .buttons-wrap ul li a {
+        padding: 6px 20px;
+        font-size: 10px
+    }
+    .about-details ul li label {
+        font-size: 10px;
+        min-width: 50px
+    }
+    .cta-text h2 {
+        font-size: 24px
+    }
+    .cta-btn a.cta {
+        font-size: 10px;
+        padding: 5px 16px
+    }
+    .bar {
+        padding: 0 0
+    }
+    .portfolio-menu h2 {
+        font-size: 40px;
+        margin-bottom: 15px
+    }
+    .portfolio-menu ul li {
+        display: block;
+        padding-bottom: 5px;
+        font-size: 13px
+    }
+    .portfolio-area.three .portfolio-menu ul li,
+    .portfolio-area.two .portfolio-menu ul li {
+        font-size: 8px;
+        padding-right: 5px!important;
+        padding-left: 0
+    }
+    .portfolio-area.three .portfolio-content,
+    .portfolio-area.two .portfolio-content {
+        top: 70%;
+        left: 0;
+        margin-left: 0;
+        text-align: center
+    }
+    .portfolio-content h3 {
+        font-size: 12px
+    }
+    .portfolio-content p {
+        font-size: 8px
+    }
+    .portfolio-area.three .single-portfolio,
+    .portfolio-area.two .single-portfolio,
+    .single-portfolio {
+        height: 120px
+    }
+    .portfolio-menu ul li.active::after {
+        right: 150px
+    }
+    .single-portfolio {
+        height: 130px;
+        width: 33.3%
+    }
+    .portfolio-content h3 {
+        font-size: 12px
+    }
+    .portfolio-content p {
+        font-size: 10px
+    }
+    .single-testimonial::after {
+        bottom: 70px
+    }
+    .blog-content {
+        padding: 20px 30px
+    }
+    .blog-content h2 {
+        font-size: 24px
+    }
+    .m-b-65 {
+        margin-bottom: 30px
+    }
+    .client-logo-title h4 {
+        font-size: 18px
+    }
+    .get-touch-title h2 {
+        font-size: 50px
+    }
+    .get-touch-title p {
+        font-size: 14px
+    }
+    .foter-bottom {
+        padding-top: 30px
+    }
+    .breadcrumb-area {
+        height: 350px
+    }
+    .breadcrumb-area h2 {
+        font-size: 24px;
+        line-height: 30px;
+        padding-top: 100px
+    }
+    .breadcrumb-area ul li {
+        font-size: 10px
+    }
+    h3.blog-title a {
+        font-size: 20px
+    }
+    .blog-post p {
+        font-size: 14px
+    }
+    .blog-Pagination a {
+        font-size: 14px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 10px
+    }
+    .single-blog-page.section-padding {
+        padding: 40px 0
+    }
+    .single-posts h2 {
+        font-size: 20px;
+        padding: 15px 0 5px
+    }
+    .blog-posts-meta.single {
+        margin-bottom: 5px
+    }
+    .blog-posts-meta ul li {
+        font-size: 8px;
+        margin-right: 15px
+    }
+    .blog-posts-meta ul li i {
+        margin-right: 6px
+    }
+    .blog-posts-meta ul li::before {
+        right: -12px
+    }
+    .entry-content p {
+        font-size: 12px;
+        line-height: 20px
+    }
+    .single-posts blockquote p {
+        font-size: 12px
+    }
+    .single-posts blockquote p i {
+        font-size: 14px
+    }
+    .entry-footer {
+        text-align: center
+    }
+    .post-share {
+        float: none;
+        margin-top: 10px
+    }
+    .comment-box .comment-reply-button {
+        right: 30px
+    }
+    .comment-box p {
+        font-size: 12px;
+        margin: 10px 0 20px;
+        line-height: 20px
+    }
+    .comment-box.children {
+        margin-left: 40px
+    }
+    .comment-form {
+        margin-bottom: 40px
+    }
+    .search-submit {
+        right: 58px
+    }
+    .widget {
+        padding: 30px 20px
+    }
+    .latest-news-title,
+    .widget.latest-news-widget {
+        text-align: center
+    }
+    .latest-news-title {
+        margin-top: 20px;
+        line-height: 20px
+    }
+    .category li a {
+        padding: 5px 0;
+        font-size: 14px
+    }
+    .author-img>img {
+        margin: 10% 0 15px
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:360px) {
+    .nav-tabs .nav-link {
+        font-size: 10px;
+        font-weight: 400;
+        padding: 5px 18px 6px 0
+    }
+}
